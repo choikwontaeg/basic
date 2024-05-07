@@ -10,7 +10,7 @@ public class DemoApplication {
 
 		/*
 
-		변경점
+		변경점 2222
 		*/
 		
 		SpringApplication.run(DemoApplication.class, args);
