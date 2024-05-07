@@ -8,6 +8,11 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 
+		/*
+
+		변경점
+		*/
+		
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
